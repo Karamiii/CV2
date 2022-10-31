@@ -4,6 +4,7 @@
 #include<ctime>									// Otetaan tietokoneen kello käyttöön
 #include<iomanip>								// otetaan käyttöön kirjasto syötteen tarkastuksen tarkkuuteen.
 #include<windows.h>
+//testataan tapahtumia:D
 
 using namespace std;
 
