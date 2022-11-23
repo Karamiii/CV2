@@ -126,7 +126,7 @@ int main() {
 
 		}
 
-	} while (valinta != 8); {												// Jos käyttäjä syöttää numeron 6, niin ohjelma lopettaa
+	} while (valinta != 8); {												// Jos käyttäjä syöttää numeron 8, niin ohjelma lopettaa
 		cout << endl;
 		system("cls");
 		cout << endl;
