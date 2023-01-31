@@ -21,6 +21,8 @@ When the program checks your input, it will simply go over the array and compare
 
 - Adding proper documentation for the project.
 
+- As months go by, i realize there is a lot of things that could/should be fixed. Structs could be replaced with a classes and objects, Everything could be divided to different files to make the code cleaner. TLDR. It was my first project and you can really tell :D
+
 
 
 
